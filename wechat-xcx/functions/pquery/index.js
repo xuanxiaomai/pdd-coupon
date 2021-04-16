@@ -56,7 +56,7 @@ exports.main = async (event, context) => {
       timestamp: utils.timestamp(),
       type: "pdd.ddk.goods.detail",
       pid: utils.PDDPID,
-      goods_sign_list: event.goods_sign_list,
+      goods_sign: event.goods_sign_list,
       search_id: event.search_id,
     };
   }
