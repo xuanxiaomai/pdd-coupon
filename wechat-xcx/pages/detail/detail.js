@@ -80,7 +80,7 @@ Page({
       name: "pquery",
       data: {
         generate: true,
-        goods_id_list: `["${this.data.goods_id}"]`,
+        goods_sign_list: `["${this.data.goods_sign}"]`,
         search_id: this.data.search_id,
       }
     }).then(res => {
