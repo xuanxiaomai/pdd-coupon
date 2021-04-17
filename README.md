@@ -4,8 +4,6 @@
 
 ![小程序码](./2.png)
 
-![截图](./1.png)
-
 ### 使用方法
 
 `该小程序使用微信原生+云函数开发。`
@@ -24,8 +22,5 @@
 ```
 登录上述的url，用你的账号授权一次。用该接口[https://jinbao.pinduoduo.com/third-party/api-detail?apiName=pdd.ddk.member.authority.query](https://jinbao.pinduoduo.com/third-party/api-detail?apiName=pdd.ddk.member.authority.query)查询下是否备案成功，成功后就没权限问题。
 
-### 已上线案例：
-
-<img src="https://raw.githubusercontent.com/xuanxiaomai/pdd-coupon/main/xcx-1.png" width="200"/>
 
 
